@@ -36,11 +36,11 @@ import jnpsLogo from "./assets/education_logo/jnps_logo.png";
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/github_det.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
-import movierecLogo from './assets/work_logo/movie_rec.png';
+import portfolioLogo from './assets/work_logo/portfolio.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
-import webverLogo from './assets/work_logo/web_dig.png';
-import cmLogo from './assets/work_logo/cm.png';
+import razorpay from './assets/work_logo/razorpay.png';
+import taskmanagementsystemLogo from './assets/work_logo/task_manage.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 
@@ -154,13 +154,13 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      title: "Movie Recommendation App",
+      title: "Portfolio Website",
       description:
-        "A React-based web application that provides movie recommendations based on different criteria, such as genres, user preferences, and popular trends. The intuitive design and smooth experience make it a go-to app for movie enthusiasts.",
-      image: movierecLogo,
-      tags: ["React JS", "API", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/Movie-Recommendation-App",
-      webapp: "https://movie-recommendation-app-jet.vercel.app/",
+        "A personal portfolio website showcasing my skills, projects, and experiences. Built using React.js, it features a modern design with smooth animations and responsive layouts. The website serves as a digital resume, highlighting my journey in the tech world and providing insights into my work.",
+      image: portfolioLogo,
+      tags: ["React JS", "HTML", "CSS", "JavaScript"],
+      github: "https://github.com/Rashmi-2005-Ranjan/Portfolio",
+      webapp: "https://portfolio-eight-chi-63.vercel.app/",
     },
     {
       id: 3,
@@ -168,9 +168,9 @@ export const SkillsInfo = [
       description:
         "An efficient and customizable NPM package for validating email addresses. Built using React.js and Node.js, it provides robust validation features to help developers ensure that email inputs meet required formats and standards.",
       image: npmLogo,
-      tags: ["React JS", "Node.js", "NPM", "Validation"],
-      github: "https://github.com/codingmastr/cmtk-email-validator",
-      webapp: "https://www.npmjs.com/package/cmtk-email-validator",
+      tags: ["React JS", "NPM", "Validation"],
+      github: "https://github.com/",
+      webapp: "",
     },
     {
       id: 4,
@@ -179,28 +179,28 @@ export const SkillsInfo = [
         "A productivity-boosting Chrome extension designed to help users manage and remember their daily tasks. Built using JavaScript, it offers a simple interface with reminders and task notifications to keep users on track.",
       image: taskremLogo,
       tags: ["JavaScript", "Chrome Extension", "HTML", "CSS"],
-      github: "https://github.com/codingmastr/Task-Reminder-Tool",
-      webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
+      github: "https://github.com/",
+      webapp: "",
     },
     {
       id: 5,
       title: "Razorpay",
       description:
         "A clean and responsive Razorpay UI Clone built using Tailwind CSS. This project replicates the visual design of Razorpay's user interface, focusing on the layout, styling, and overall look. The goal is to create a user-friendly interface with modern design patterns, ideal for showcasing skills in front-end development and UI design.",
-      image: webverLogo,
+      image: razorpay,
       tags: ["HTML", "Tailwind CSS"],
       github: "https://github.com/Rashmi-2005-Ranjan/Razorpay",
-      webapp: "https://github.com/Rashmi-2005-Ranjan/Razorpay",
+      webapp: "https://razorpay-plum.vercel.app/",
     },
     {
       id: 6,
       title: "Task Management System",
       description:
         "An ed-tech platform where users can access tech and coding-related blogs, notes, interview questions, e-books, and premium content with payment integration. Built with full-stack technologies for a seamless learning experience.",
-      image: cmLogo,
+      image: taskmanagementsystemLogo,
       tags: ["Angular"],
-      github: "https://codingmasterweb.in/",
-      webapp: "https://codingmasterweb.in/",
+      github: "https://github.com/Rashmi-2005-Ranjan/Task-Management-System",
+      webapp: "https://task-management-system-ive4.vercel.app/",
     },
     {
       id: 7,
@@ -209,8 +209,8 @@ export const SkillsInfo = [
         "A React.js-based image search application that allows users to search and download high-quality images from the web. Built using external APIs to ensure a vast library of results for various queries.",
       image: imagesearchLogo,
       tags: ["React JS", "API", "Search Feature", "CSS", "Javascript"],
-      github: "https://github.com/codingmastr/Image-Search-App",
-      webapp: "https://imagsearch.netlify.app/",
+      github: "https://github.com/",
+      webapp: "",
     },
     {
       id: 8,
@@ -219,7 +219,7 @@ export const SkillsInfo = [
         "An efficient background removal app built with React.js and API integration. Users can upload any image, remove the background, and download the transparent version for further use.",
       image: removebgLogo,
       tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
-      github: "https://github.com/codingmastr/Image-Background-Remover",
-      webapp: "https://removeyourbg.netlify.app/",
+      github: "https://github.com/",
+      webapp: "",
     },
   ];  

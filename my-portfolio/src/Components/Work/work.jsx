@@ -103,7 +103,7 @@ const Work = () => {
                   ))}
                 </div>
                 <div className="flex gap-4">
-                  {/* <a
+                  <a
                     href={selectedProject.github}
                     target="_blank"
                     rel="noopener noreferrer"
@@ -118,7 +118,7 @@ const Work = () => {
                     className="w-1/2 bg-purple-600 hover:bg-purple-800 text-white lg:px-6 lg:py-2 px-2 py-1 rounded-xl lg:text-xl text-sm font-semibold text-center"
                   >
                     View Live
-                  </a> */}
+                  </a>
                 </div>
               </div>
             </div>
